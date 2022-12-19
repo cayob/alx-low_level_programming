@@ -1,3 +1,4 @@
+#include <stdio.h>
 #include "main.h"
 /**
 * reset_to_98 - updates the value it points
