@@ -1,21 +1,3 @@
-
-Sign up
-davidinmichael
-/
-alx-low_level_programming
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-alx-low_level_programming/0x0C-more_malloc_free/101-mul.c
-@davidinmichael
-davidinmichael I added the advance tasks
- 1 contributor
-147 lines (137 sloc)  2.54 KB
 #include "main.h"
 #include <stdlib.h>
 
