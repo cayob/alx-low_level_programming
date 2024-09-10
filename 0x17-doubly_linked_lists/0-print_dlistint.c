@@ -1,12 +1,14 @@
-#include "list.h"
+#include "lists.h"
+
 /**
- * print_distinct_t prints all element of a
+ * print dlists print out all element of a
  *
- * @h : head of the node
- *
- * Return: return the number of nodes
- *
+ * dlists_t list
+ * @head : head of the list
+ * return the number of node
+ * 
  * */
+
 size_t print_dlistint(const dlistint_t *h)
 {
 		int count;
@@ -26,5 +28,6 @@ size_t print_dlistint(const dlistint_t *h)
 															h = h->next;
 																}
 
+						
 							return (count);
 }
